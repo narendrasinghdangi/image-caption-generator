@@ -8,5 +8,6 @@ Role & Responsibility: Image caption generator is to make it easier for users to
 
 Tech Stack: CNN, TensorFlow, OpenCV, LSTM, Embedding, FastAPI, AWS, Docker.
 
+![My test image](1_nGnrxFYs7CTtUHjILoi41g.png)
 
-(1_nGnrxFYs7CTtUHjILoi41g.png)
+
